@@ -8,5 +8,6 @@ for i in n:
 print('Number of vowels in a string is :',count)
 
 '''
+output:
 Enter a String :python
 Number of vowels in a string is : 1
