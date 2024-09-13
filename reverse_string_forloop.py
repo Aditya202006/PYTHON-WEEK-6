@@ -2,7 +2,7 @@
 
 input_string=input('Enter a String :')
 reverse=""
-for i in input_string=:
+for i in input_string:
 	reverse = i + reverse
 print('Reversed string is ',reverse)
 
